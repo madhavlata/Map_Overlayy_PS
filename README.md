@@ -31,6 +31,8 @@ python model2.py
 # Sample Website used - https://spo.iitk.ac.in/ 
 ## Final Output in the file - final_output_with_relevant_links.json
 
+Our OPENAI_KEY was getting disabled on uploading on GitHub, if it is required contact on anantsrivastava02@gmail.com
+
 # Web Scraping and Question Generation Model
 
 This project combines web scraping, natural language processing, and machine learning techniques to extract information from websites and generate multiple-choice questions (MCQs) based on the extracted content.

@@ -1,0 +1,14 @@
+{
+    "quiz": {
+        "relevance_check": "PASS",
+        "word_count_check": "PASS",
+        "question_count_check": "PASS",
+        "link_count_check": "PASS",
+        "overall_score": "95",
+        "feedback": "The MCQs are highly relevant to the text provided and accurately reflect the information. Each MCQ is within the word count limit of 80 words. There are exactly 10 MCQs provided and 5 relevant links included. Overall, the quality of the MCQs is excellent with minor room for improvement."
+    },
+    "review": {
+        "Total Score": "95"
+    },
+    "link_relevance": []
+}
